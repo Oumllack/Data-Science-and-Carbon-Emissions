@@ -272,18 +272,3 @@ python rapport/visualization/interactive_dashboard.py
 4. Recent scientific papers on CO2 emissions modeling
 5. Policy impact assessment studies
 6. Behavioral economics research
-
-## 11. Contact
-
-For questions, suggestions, or collaborations:
-- Email: your.email@example.com
-- GitHub: github.com/yourusername
-- LinkedIn: linkedin.com/in/yourusername
-
-## 12. License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-*Note: This study is part of an ongoing research project. Results and predictions are subject to updates as new data becomes available.* 
