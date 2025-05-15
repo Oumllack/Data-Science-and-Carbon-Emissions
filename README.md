@@ -62,6 +62,8 @@ Advanced features were developed:
 
 ### 3.1 Model Performance
 
+![Comparaison des modèles](figures/model_comparison.png)
+
 | Model    | MSE   | RMSE  | MAE   | R²    |
 |----------|-------|-------|-------|-------|
 | ARIMA    | 33.17 | 5.76  | 4.12  | 0.15  |
@@ -71,6 +73,8 @@ Advanced features were developed:
 | Ensemble | 22.73 | 4.77  | 3.91  | 0.30  |
 
 ### 3.2 Policy Impact Analysis
+
+![Impact des politiques](figures/policy_impact.png)
 
 Key policy periods and their impacts:
 
@@ -90,6 +94,8 @@ Key policy periods and their impacts:
    - Statistical significance: p < 0.001
 
 ### 3.3 Behavioral Factor Analysis
+
+![Facteurs comportementaux](figures/behavioral_analysis.png)
 
 Strong correlations were found between emissions and:
 
@@ -114,6 +120,8 @@ Strong correlations were found between emissions and:
    - Recyclable packaging: r = -0.41
 
 ## 4. Future Predictions
+
+![Prédictions](figures/predictions.png)
 
 Our ensemble model predicts:
 
